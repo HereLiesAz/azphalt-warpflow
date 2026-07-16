@@ -1,0 +1,9 @@
+{
+    "name":  "@azphalt/vegas.transition.warpflow",
+    "version":  "1.0.0",
+    "description":  "Dynamically distorts the image and pulls the viewer into the next scene.",
+    "private":  false,
+    "scripts":  {
+                    "build":  "node build.js"
+                }
+}
