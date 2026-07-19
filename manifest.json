@@ -1,5 +1,5 @@
 {
-  "id": "vegas.transition.warpflow",
+  "id": "com.hereliesaz.azphalt.warpflow",
   "version": "1.0.0",
   "name": "Warp Flow Transition",
   "description": "Dynamically distorts the image and pulls the viewer into the next scene.",
