@@ -1,11 +1,12 @@
 {
+  "azphalt": "0.1",
   "id": "com.hereliesaz.azphalt.warpflow",
-  "version": "1.0.0",
   "name": "Warp Flow Transition",
+  "version": "1.0.0",
+  "kind": "asset",
+  "license": "MIT",
+  "compat": ">=0.1",
   "description": "Dynamically distorts the image and pulls the viewer into the next scene.",
-  "files": {
-    "assets/preset.json": "sha256-placeholder"
-  },
   "assets": [
     {
       "type": "motion",
