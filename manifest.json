@@ -4,9 +4,10 @@
   "name": "Warp Flow Transition",
   "version": "1.0.0",
   "kind": "asset",
-  "license": "MIT",
+  "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
   "description": "Dynamically distorts the image and pulls the viewer into the next scene.",
+  "author": "HereLiesAz",
   "assets": [
     {
       "type": "motion",
